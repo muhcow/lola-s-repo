@@ -1,0 +1,93 @@
+
+a{text-decoration: none}
+
+div.header {
+    line-height:10em;
+    text-align: center;
+}
+
+div.b {
+    line-height:1em;
+}
+
+div.c {
+    line-height:1em;
+}
+
+div.video{
+  line-height:20em;
+  position: relative;
+
+  transform: translate(-50%, -50%);
+  left: 950px;
+  top: 400px;
+}
+
+div.homies {
+    font-size: 30px;
+    position: relative;
+    left: 300px;
+    top: -160px;
+
+    border: 10px solid orange;
+    border-radius: 1100px;
+
+    display: inline;
+}
+
+div.shop {
+    font-size: 30px;
+    position: relative;
+    left: 310px;
+    top: 70px;
+
+    border: 10px solid orange;
+    border-radius: 1100px;
+
+    display: inline;
+}
+
+div.clips {
+    font-size: 35px;
+    position: relative;
+    left: 1000px;
+    top: -290px;
+
+    border: 10px solid orange;
+    border-radius: 1100px;
+
+    display: inline;
+}
+
+div.contact {
+    font-size: 30px;
+    position: relative;
+    left: 800px;
+    top: -140px;
+
+    border: 10px solid orange;
+    border-radius: 1100px;
+
+    display: inline;
+
+}
+
+  #contactInfo {
+    font-size: 20px;
+    position: relative;
+    left: 210px;
+    top: -220px;
+    display: none;
+}
+
+  #lolaBorder {
+    font-size: 30px;
+    position: relative;
+    left: 625px;
+    top: -130px;
+    display: none;
+}
+
+.shown {
+  display:inline-block;
+}
